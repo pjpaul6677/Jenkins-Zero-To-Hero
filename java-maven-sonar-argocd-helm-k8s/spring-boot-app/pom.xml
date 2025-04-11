@@ -70,12 +70,12 @@
 
         </plugins>
     </build>
-<distributionManagement>
-    <repository>
-        <id>Maven</id>
-        <url>http://54.255.225.82:8081/repository/Maven/</url>
-    </repository>
-</distributionManagement>
+    <distributionManagement>
+             <repository>
+                 <id>Maven</id>
+                 <url>http://54.255.225.82:8081/repository/Maven/</url>
+             </repository>
+    </distributionManagement>
 
 
 
